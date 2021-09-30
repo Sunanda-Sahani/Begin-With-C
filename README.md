@@ -1,7 +1,7 @@
 # Begin-With-C
 #C for beginners.
 
-Here I have given a simple program to print Hello World fot beginners. This code was written and executed on vim editor, the compiler used is gcc on Linux environment.
+Here I have given a simple program to print Hello World for beginners. This code was written and executed on vim editor, the compiler used is gcc on Linux environment.
 Just how to run this program depends on the operating system you are using. As in my case I have used UNIX operating system, so on this you need to create the program in a file whose name ends with ".c" extension such as "Hello_World.c" , then compile it with the command
 
       gcc Hello_World.c
